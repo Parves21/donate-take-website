@@ -3,6 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div className='px-40 mt-8'>
+            <h1 className='text-center text-red-500 font-bold text-2xl mb-5'>ManKind Website</h1>
             <h2 className='font-bold text-2xl'>
                 এটা আমাদের মানবিক Website যেখানে আপনি চাইলে, <br /> আপনার পড়ে থাকা কিছু অন্য কাউকে দান করতে পারবেন, যা অন্য জনের খুব পয়োজন।
             </h2>
