@@ -1,0 +1,7 @@
+.navber{
+    position: sticky;
+    top: 0px;
+}
+.navber a{
+    padding-left: 15px;
+}

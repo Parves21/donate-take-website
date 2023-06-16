@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Man's Zins Pant",
+        "img": "https://i.ebayimg.com/images/g/78kAAOSwYOdkZGcU/s-l500.jpg",
+        "expireDate": "1 Year"
+    },
+    {
+        "id": "2",
+        "name": "Man's T-shirt",
+        "img": "https://blog.bonfire.com/wp-content/uploads/2019/09/events.jpg",
+        "expireDate": "1 Year"
+    },
+    {
+        "id": "3",
+        "name": "Girl's Clip",
+        "img": "https://cdn.shopify.com/s/files/1/0511/7168/8638/products/DSC_0212_1024x1024.jpg?v=1624950781",
+        "expireDate": "6 month"
+    },
+    {
+        "id": "4",
+        "name": "3rd Semester Book",
+        "img": "https://www.ncertbooks.guru/wp-content/uploads/2020/02/B.Tech-Books.png",
+        "expireDate": "15 days"
+    },
+    {
+        "id": "5",
+        "name": "Red Pen",
+        "img": "https://static8.depositphotos.com/1113140/874/i/950/depositphotos_8747447-stock-photo-red-pen.jpg",
+        "expireDate": "7 days"
+    },
+    {
+        "id": "6",
+        "name": "Markary",
+        "img": "https://www.baxevanidis.gr/images/virtuemart/product/ws/2962/376.jpg",
+        "expireDate": "3 days"
+    },
+    {
+        "id": "7",
+        "name": "Black board",
+        "img": "https://img.freepik.com/premium-photo/blank-old-blackboard_719385-365.jpg?w=1060",
+        "expireDate": "2 month"
+    },
+    {
+        "id": "8",
+        "name": "Painter Brush",
+        "img": "https://www.thesprucecrafts.com/thmb/uwlK35rxkGWYSztmP4tsSTVWJGI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178675896-56a6e6ac3df78cf77290d8f5.jpg",
+        "expireDate": "1 Month"
+    }
+]
