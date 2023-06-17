@@ -71,7 +71,7 @@ const Donate = () => {
 
                             <div className="form-control mt-6">
                                 <button className="btn btn-primary">
-                                    <Link to='/generatepin'>Submit</Link>
+                                    <Link to='/generatepin'>Donate</Link>
                                 </button>
                             </div>
                         </form>

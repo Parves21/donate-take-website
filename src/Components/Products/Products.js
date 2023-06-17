@@ -18,14 +18,7 @@ const Products = () => {
                 }
             </div>
             <br />
-            <div className='Login-section'>
-                <h2>
-                    If you want to explore more then you need to Login !!
-                </h2>
-                <button className="btn btn-success mt-5">
-                    <Link to='/login'>Login</Link>
-                </button>
-            </div>
+            
         </div>
     );
 };

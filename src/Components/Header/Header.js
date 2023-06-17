@@ -8,7 +8,8 @@ const Header = () => {
     return (
         <div>
             <nav className='navber bg-emerald-200 flex justify-between p-4'>
-                <h2 className='text-green-700 font-bold'>ManKind Website</h2>
+                <h2 className='text-green-700 font-bold'>The Wall of Humanity
+                </h2>
                 <div>
                     <Link to='/'>About Us</Link>
                     <Link className='font-bold' to='/products'>Products</Link>
